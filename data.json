@@ -23,28 +23,31 @@
 "yandex_inter":"R-M-DEMO-interstitial",
 "yandex_native":"R-M-DEMO-native-i",
 "yandex_reward":"demo-rewarded-yandex",
+  
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"REWARD-7025613",
+
+  
 
 
-
-"start_vpn":"yes",
+"download_dialog_txt":"download text from server",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
 "native_network_choice":"admob"
   
-  
 
 },
- 
- "my_data":[
-  {"title":"skin standoff 1","desc":"In the immersive realm of multiplayer gaming, every detail matters, from gameplay mechanics to visual aesthetics. In the adrenaline-pumping universe of Standoff 2, the concept of skins adds an exciting layer of personalization and visual flair to the gaming experience. These cosmetic enhancements for weapons have captured the hearts of players worldwide, offering a way to express individuality, showcase achievements, and elevate the overall enjoyment of the game. In this article, we'll delve into the world of weapon skins in Standoff 2 and explore how they have become an integral part of the game's appeal.","photo":"https://iili.io/HDuB7Tv.webp"},
-  {"title":"skin standoff 2","desc":"Weapon skins in Standoff 2 are more than just cosmetic alterations; they are a testament to creativity, artistry, and the desire to stand out in the virtual battlefield. These visually striking designs transform ordinary firearms into personalized masterpieces, allowing players to wield weapons that resonate with their style and personality. From sleek and futuristic designs to gritty and battle-worn textures, weapon skins in Standoff 2 encompass a vast spectrum of aesthetics that cater to a diverse array of player preferences.","photo":"https://iili.io/HDuBeGS.webp"},
-  {"title":"skin standoff 3","desc":"Beyond their visual appeal, weapon skins in Standoff 2 serve as badges of honor that showcase a player's achievements and progression. Players can unlock skins through various means, including completing in-game challenges, participating in events, or purchasing them from the marketplace. Each skin tells a unique story, whether it commemorates a hard-fought victory, marks a milestone, or reflects a player's dedication to mastering the game. The process of acquiring and showcasing these skins adds a layer of satisfaction and accomplishment to the gaming journey.","photo":"https://iili.io/HDuBgyb.webp"},
-  {"title":"skin standoff 4","desc":"The allure of weapon skins lies in their ability to empower players with a sense of personalization and individuality. Through the selection of skins, players can curate their own unique in-game persona, making a visual statement that sets them apart from the crowd. Whether it's a bold and vibrant skin that demands attention or a more understated design that exudes sophistication, the ability to personalize weaponry cultivates a deeper connection between players and their virtual avatars.","photo":"https://iili.io/HDuBPZQ.webp"},
-  {"title":"skin standoff 5","desc":"The Standoff 2 marketplace plays a crucial role in the world of weapon skins, offering players a platform to buy, sell, and trade these coveted cosmetic enhancements. As players collect and obtain skins, they can choose to engage in the virtual economy by trading with fellow gamers. This marketplace not only fosters an environment of collaboration and interaction but also adds an extra layer of excitement as players seek out rare and sought-after skins to enhance their collection.","photo":"https://iili.io/HDuCTV2.webp"},
-  {"title":"skin standoff 6","desc":"The skin culture in Standoff 2 has given rise to a vibrant virtual marketplace, where players can buy, sell, and trade their skins. This ecosystem has cultivated a sense of community engagement, allowing players to interact and collaborate with others to enhance their collection. Through skin trading, players can acquire skins they desire, while also contributing to a dynamic virtual economy that mirrors real-world marketplaces.","photo":"https://iili.io/HDuCtWl.webp"},
-  {"title":"skin standoff 7","desc":"While skins primarily enhance the visual aspect of the game, some players believe that having a personalized weapon can boost their confidence and performance. The psychological effect of wielding a visually distinct firearm can lead to improved focus, precision, and overall gameplay experience. As such, skins offer a unique way for players to engage with the game beyond the traditional mechanics.","photo":"https://iili.io/HDuCp07.webp"},
-  {"title":"skin standoff 8","desc":"In Standoff 2, skins represent more than just cosmetic items—they encapsulate the essence of individuality, creativity, and community engagement. With their diverse designs, rarity levels, and impact on gameplay, skins have transformed from simple accessories to cultural icons within the gaming world. As players continue to adorn their virtual arsenal with visually striking and meaningful skins, the allure and impact of these cosmetic items in Standoff 2 show no signs of waning. Whether it's about standing out on the battlefield or fostering a sense of belonging within the gaming community, skins have become an integral and beloved part of the Standoff 2 experience.","photo":"https://iili.io/HDuCp07.webp"}
+  "my_data":[
+  {"desc1":"description1 ser ",
+   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
+  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
  
 }
