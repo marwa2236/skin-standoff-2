@@ -41,13 +41,12 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Diving into Skins: Exploring the Aesthetic and Tactical Power of Weapon Skins in Standoff 2.", "photo1":"https://iili.io/HyGr7qv.jpg"},
+  {"desc2":"Beyond Appearance: How Skins Go Beyond Looks to Influence Gameplay and Player Experience.","photo2":"https://iili.io/HyGrRLJ.jpg"},
+  {"desc3":"Unlocking Creativity: The Freedom to Express Yourself Through Unique Skin Selections.","photo3":"https://iili.io/HyGrY1R.jpg"},
+  {"desc4":"Visual Panache: Elevating Your Arsenal's Look with a Range of Captivating and Artistic Skins.","photo4":"https://iili.io/HyGrAXa.jpg"},
+  {"desc5":"From Classic to Whimsical: Exploring the Diverse Range of Skin Styles to Match Your Taste.","photo5":"https://iili.io/HyGragp.png"},
+  {"descd":"Showcasing Personality: Using Skins to Reflect Your Identity and Stand Out on the Battlefield.","photod":"https://iili.io/HyGr1et.png"}
    ]
  
 }
