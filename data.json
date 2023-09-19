@@ -27,10 +27,14 @@
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
 "vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
+"vungle_reward":"",
 
   
-
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
 "download_dialog_txt":"download text from server",
 "banner_network_choice":"yandex", 
@@ -41,13 +45,13 @@
 
 },
   "my_data":[
-  {"desc1":"Diving into Skins: Exploring the Aesthetic and Tactical Power of Weapon Skins in Standoff 2.", "photo1":"https://iili.io/HyGr7qv.jpg"},
-  {"desc2":"Beyond Appearance: How Skins Go Beyond Looks to Influence Gameplay and Player Experience.","photo2":"https://iili.io/HyGrRLJ.jpg"},
-  {"desc3":"Unlocking Creativity: The Freedom to Express Yourself Through Unique Skin Selections.","photo3":"https://iili.io/HyGrY1R.jpg"},
-  {"desc4":"Visual Panache: Elevating Your Arsenal's Look with a Range of Captivating and Artistic Skins.","photo4":"https://iili.io/HyGrAXa.jpg"},
-  {"desc5":"From Classic to Whimsical: Exploring the Diverse Range of Skin Styles to Match Your Taste.","photo5":"https://iili.io/HyGragp.png"},
-  {"descd":"Showcasing Personality: Using Skins to Reflect Your Identity and Stand Out on the Battlefield.","photod":"https://iili.io/HyGr1et.png"}
+  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
+   "photo1":"https://iili.io/Ht07B6b.webp"},
+  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
+  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
+  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
+  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
+  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
    ]
  
 }
-   
