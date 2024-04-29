@@ -31,9 +31,9 @@
 
   
   "more_apps_info":[
-  {"name":"ЧИТЫ НА Standoff 2  БЕЗ БАНА","package_name":"com.modmenustandoff.playersmenustan","icon":"https://iili.io/JI0SFrN.png"},
-  {"name":"ЧИТЫ НА Standoff 2 ","package_name":"com.modmenustandoff.playersmenustan","icon":"https://iili.io/JI0Sf2I.png"},
-  {"name":"НОВЫЕ РАБОЧИЕ ЧИТЫ НА Standoff 2 ","package_name":"com.modmenustandoff.playersmenustan","icon":"https://iili.io/JI0S31p.png"}
+  {"name":"ЧИТЫ НА Standoff 2  БЕЗ БАНА","package_name":"com.casestandoffwall.hdstandoffimages","icon":"https://iili.io/JI0SFrN.png"},
+  {"name":"ЧИТЫ НА Standoff 2 ","package_name":"com.casestandoffwall.hdstandoffimages","icon":"https://iili.io/JI0Sf2I.png"},
+  {"name":"НОВЫЕ РАБОЧИЕ ЧИТЫ НА Standoff 2 ","package_name":"com.casestandoffwall.hdstandoffimages","icon":"https://iili.io/JI0S31p.png"}
    ],
 
 "download_dialog_txt":"download text from server",
